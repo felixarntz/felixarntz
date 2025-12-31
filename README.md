@@ -6,4 +6,4 @@ I build software and developer tools on the web. Learn more about me in my CLI:
 npx felixarntz
 ```
 
-Or visit my website a [felix-arntz.me](https://felix-arntz.me/)
+Or visit my website @ [felix-arntz.me](https://felix-arntz.me/)
